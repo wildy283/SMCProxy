@@ -1,5 +1,4 @@
 #!/usr/bin/python3
-
 # ---------------------------------------------------------------------------------
 # Name         : SMCProxy | Simple Command Line Proxy
 # Desc         : Simple Proxy utility can be used for pentesting and hiding
