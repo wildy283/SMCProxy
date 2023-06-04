@@ -1,4 +1,4 @@
-# SMCProxy# SMCProxy | Simple Command Line Proxy
+# SMCProxy | Simple Command Line Proxy
 SMCProxy is a simple command line proxy utility that can be used for pentesting and hiding IP address from commands. It also shows lines of progress when a connection is required.
 
 ## Requirements
