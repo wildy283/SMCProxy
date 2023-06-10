@@ -11,11 +11,11 @@ SMCProxy is a simple command line proxy utility that can be used for pentesting 
 
 ## Usage
 ```
-python main.py --host 127.0.0.1 --port 8080 --command curl "https://api.wildy.my.id/ipgeo"
+python main.py --host 127.0.0.1 --port 8080 --command curl "ipinfo.io"
 ```
 For Binary
 ```
-smcproxy --host 127.0.0.1 --port 8080 --command curl "https://api.wildy.my.id/ipgeo"
+smcproxy --host 127.0.0.1 --port 8080 --command curl "ipinfo.io"
 ```
 
 
