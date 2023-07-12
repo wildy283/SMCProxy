@@ -4,10 +4,10 @@
 # Desc         : Simple Proxy utility can be used for pentesting and hiding
 #                IP address from commands. It also shows lines of progress
 #                when a connection is required.
-# Author       : Wildy Sheverando [ Wildy283 ]
+# Author       : Wildy Sheverando [ Wildy281 ]
 # Date         : 04-04-2023
 # License      : GNU General Public License V3
-# License Link : https://raw.githubusercontent.com/wildy283/License/main/gplv3.txt
+# License Link : https://raw.githubusercontent.com/wildy281/License/main/gplv3.txt
 # ---------------------------------------------------------------------------------
 
 # >> Import used library
